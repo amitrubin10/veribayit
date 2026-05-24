@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logoHOME3.png" alt="VeriBayit Logo" width="220">
+<img src="logoHOME3.png" alt="VeriBayit Logo" width="220" style="vertical-align:middle"> &nbsp; <img src="logo_new.jpg" alt="VeriBayit Branding" width="400" style="vertical-align:middle">
 
 # 🏢 VeriBayit
 
@@ -31,6 +31,18 @@
 ---
 
 ## 📸 צילומי מסך
+
+<div dir="rtl">
+
+### 🔐 מסך כניסה והרשמה
+
+מסך כניסה ייעודי עם 2 אופציות: כניסה מהירה עם Google או email+password. כפתור "הרשמה" יוצר אוטומטית בניין חדש למשתמש החדש (multi-tenant). תמיכה ב-show/hide סיסמה.
+
+</div>
+
+<img src="screenshots/LOGIN.jpg" alt="Login Screen" width="900">
+
+---
 
 <div dir="rtl">
 
