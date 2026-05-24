@@ -6,7 +6,7 @@
 
 ### מערכת SaaS לניהול ועד בית — בעברית מלאה, RTL
 
-**[🌐 Live App](https://app.veribayit.com)** · **[📧 Contact](mailto:amitrubin60@gmail.com)**
+**[🌐 Live App](https://app.veribayit.com)** · **[📧 Contact](mailto:veribayit@gmail.com)**
 
 </div>
 
@@ -309,7 +309,7 @@
 
 **מפתח:** עמית רובין
 
-**אימייל:** [amitrubin60@gmail.com](mailto:amitrubin60@gmail.com)
+**אימייל:** [veribayit@gmail.com](mailto:veribayit@gmail.com)
 
 **אתר חי:** [app.veribayit.com](https://app.veribayit.com) (בקרוב)
 
@@ -325,7 +325,7 @@
 
 </div>
 
-[📧 צור קשר](mailto:amitrubin60@gmail.com) · [🌐 לאתר החי](https://app.veribayit.com)
+[📧 צור קשר](mailto:veribayit@gmail.com) · [🌐 לאתר החי](https://app.veribayit.com)
 
 ---
 
