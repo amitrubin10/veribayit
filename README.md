@@ -1,86 +1,179 @@
 <div align="center">
 
-<img src="logo.png" alt="VeriBayit Logo" width="120">
+<img src="logoHOME3.png" alt="VeriBayit Logo" width="220">
 
 # 🏢 VeriBayit
 
 ### מערכת SaaS לניהול ועד בית — בעברית מלאה, RTL
 
-**[🌐 Live App](https://app.veribayit.com)** · **[👤 Contact](mailto:amitrubin60@gmail.com)**
+**[🌐 Live App](https://app.veribayit.com)** · **[📧 Contact](mailto:amitrubin60@gmail.com)**
 
 </div>
 
 ---
 
+<div dir="rtl">
+
 ## 📖 מה זה VeriBayit?
 
-**VeriBayit** היא מערכת ענן מלאה לניהול ועד בית — גזברות, גביה, ספקים, הצבעות דיגיטליות, ארכיון מסמכים ועוד. פותחה כפרויקט אמיתי לבניין של 70 דירות בפתח תקווה, כדי להחליף ניהול ידני ב-Excel/WhatsApp במערכת מקצועית עם נתונים שמורים בענן.
+**VeriBayit** היא מערכת ענן מלאה לניהול ועד בית — גזברות, גביה, ספקים, הצבעות דיגיטליות, ארכיון מסמכים ועוד.
+
+פותחה כפרויקט אמיתי להחליף ניהול ידני ב-Excel/WhatsApp במערכת מקצועית עם נתונים שמורים בענן.
 
 ### למי זה מיועד?
+
 - **גזברי ועד בית** שמחפשים להחליף ספרי חשבונות ידניים במערכת מקצועית
 - **חברי וועד** שרוצים שקיפות בגביה והצבעות דיגיטליות
 - **דיירים** שרוצים לראות חיובים, להצביע ולקבל מסמכים בקלות
+
+</div>
 
 ---
 
 ## 📸 צילומי מסך
 
+<div dir="rtl">
+
 ### 📊 דשבורד ראשי
-KPIs חודשיים, גרפים של הכנסות/הוצאות, באנרים חכמים, סיכום שנתי.
 
-<img src="screenshots/DESHBOARD.png" alt="Dashboard" width="800">
-<img src="screenshots/DESHBOARD 2.png" alt="Dashboard - גרפים" width="800">
+KPIs חודשיים, גרפים של הכנסות/הוצאות, באנרים חכמים, וסיכום שנתי.
 
-### 💰 גביה מדיירים
-טבלת 70 דירות עם חישוב חוב אוטומטי לפי FIFO. שורת דייר עם פירוט מלא, כפתור WhatsApp לכל דייר עם הודעת חוב מותאמת.
+</div>
 
-<img src="screenshots/GVIYA.png" alt="Collection" width="800">
-
-### 🏪 ניהול ספקים
-ניהול ספקי הבניין (חשמל / מים / ניקיון / גינון / מעליות / וכו') עם תקופות מחיר, חוב, ותחזית.
-
-<img src="screenshots/SAPAKIM.png" alt="Suppliers" width="800">
-
-### 💳 התאמות אשראי (Reconciliation)
-התאמת הפקדות אגרגטור (Growpay/Payme) לחיובי אשראי בודדים. תמיכה ב-partial matching + fast-track לאישור batch.
-
-<img src="screenshots/ASKAROT.png" alt="Reconciliation" width="800">
-
-### 🏪 אגרגטורי סליקה (Aggregators)
-ניהול חברות סליקת אשראי + עמלות לפי תקופה.
-
-<img src="screenshots/AG1.png" alt="Aggregators" width="800">
-<img src="screenshots/AG2.png" alt="Aggregators 2" width="800">
-<img src="screenshots/AG3.png" alt="Aggregators 3" width="800">
-
-### ⚡ חשמל וטעינה
-ניהול נקודות טעינה חשמליות בחניון — דייר/אורח/ועד, חישוב חיובים אישיים.
-
-<img src="screenshots/HASHMAL.png" alt="Electricity" width="800">
-
-### 📊 דוחות עשירים
-5 דוחות מובנים — שנתי / השוואתי / תקופתי / ספקים+תשלומים / דיירים. כולם עם **ייצוא PDF + Excel + הדפסה** בלחיצה אחת.
-
-<img src="screenshots/DOHOT.png" alt="Reports" width="800">
-
-### 📁 מסמכים והצבעות
-ארכיון מסמכים עם תיקיות מותאמות + drag&drop + תצוגה מקדימה. מערכת הצבעות דיגיטליות לדיירים עם שיתוף בWhatsApp ותוצאות חיות.
-
-<img src="screenshots/DOCS.png" alt="Documents & Voting" width="800">
+<img src="screenshots/DESHBOARD.png" alt="Dashboard" width="900">
+<img src="screenshots/DESHBOARD 2.png" alt="Dashboard graphs" width="900">
 
 ---
+
+<div dir="rtl">
+
+### 💰 גביה מדיירים
+
+טבלת דירות עם חישוב חוב אוטומטי לפי FIFO. שורת דייר עם פירוט מלא, כפתור WhatsApp לכל דייר עם הודעת חוב מותאמת.
+
+</div>
+
+<img src="screenshots/GVIYA.png" alt="Collection" width="900">
+
+---
+
+<div dir="rtl">
+
+### 🏪 ניהול ספקים
+
+ניהול ספקי הבניין (חשמל / מים / ניקיון / גינון / מעליות / וכו') עם תקופות מחיר, חוב, ותחזית.
+
+</div>
+
+<img src="screenshots/SAPAKIM.png" alt="Suppliers" width="900">
+
+---
+
+<div dir="rtl">
+
+### 💳 התאמות אשראי (Reconciliation)
+
+התאמת הפקדות אגרגטור (Growpay / PayMe וכו') לחיובי אשראי בודדים. תמיכה ב-partial matching + fast-track לאישור batch של חודש שלם בלחיצה אחת.
+
+</div>
+
+<img src="screenshots/ASHRAY.png" alt="Credit Reconciliation" width="900">
+
+---
+
+<div dir="rtl">
+
+### 🏘 נכסים מושכרים
+
+ניהול נכסים שהוועד משכיר (מחסן / חניה / חדר דיירים). כל נכס יכול להיות משויך לדייר ספציפי, עם חישוב שכר חודשי וחוב נפרד.
+
+</div>
+
+<img src="screenshots/ASKAROT.png" alt="Rental Properties" width="900">
+
+---
+
+<div dir="rtl">
+
+### ⚡ חשמל וטעינה
+
+ניהול נקודות טעינה חשמליות בחניון — דייר / אורח / ועד, חישוב חיובים אישיים.
+
+</div>
+
+<img src="screenshots/HASHMAL.png" alt="Electricity" width="900">
+
+---
+
+<div dir="rtl">
+
+### 📊 דוחות עשירים
+
+5 דוחות מובנים — שנתי / השוואתי / תקופתי / ספקים+תשלומים / דיירים. כולם עם **ייצוא PDF + Excel + הדפסה** בלחיצה אחת.
+
+</div>
+
+<img src="screenshots/DOHOT.png" alt="Reports" width="900">
+
+---
+
+<div dir="rtl">
+
+### 📁 מסמכים והצבעות
+
+ארכיון מסמכים עם תיקיות מותאמות + drag&drop + תצוגה מקדימה. מערכת הצבעות דיגיטליות לדיירים עם שיתוף ב-WhatsApp ותוצאות חיות.
+
+</div>
+
+<img src="screenshots/DOCS.png" alt="Documents & Voting" width="900">
+
+---
+
+<div dir="rtl">
+
+### ⚙️ הגדרות הבניין
+
+ניהול מלא של תצורת הבניין דרך 6 לשוניות: דירות / סוגי דירות / ממשקי ייבוא / יתרות פתיחה / הודעה לדיירים / גיבוי.
+
+#### 🏷 סוגי דירות עם תמחור
+
+</div>
+
+<img src="screenshots/AG1.png" alt="Settings — Apartment Types" width="900">
+
+<div dir="rtl">
+
+#### 📥 ממשקי ייבוא — 4 מקורות
+
+</div>
+
+<img src="screenshots/AG2.png" alt="Settings — Import Sources" width="900">
+
+<div dir="rtl">
+
+#### 💬 תבנית הודעת WhatsApp לדיירים
+
+עורך תבנית עם תצוגה מקדימה חיה — placeholders אוטומטיים מוחלפים בנתוני הדייר.
+
+</div>
+
+<img src="screenshots/AG3.png" alt="Settings — WhatsApp Template" width="900">
+
+---
+
+<div dir="rtl">
 
 ## ✨ פיצ'רים מרכזיים
 
 ### 💰 ניהול פיננסי מלא
-- **ייבוא Excel** — תנועות בנק / אשראי / יתרות פתיחה / דיירים — עם מיפוי עמודות ידני, חיתוך חכם, ובדיקת רצף יתרה
-- **זיהוי דייר אוטומטי** — מערכת מתקדמת לזיהוי שם דייר בתיאור תנועה (תמיכה ב-compound prefixes, וריאנטים שונים של אותו שם)
+- **ייבוא Excel** — תנועות בנק / אשראי / יתרות פתיחה / דיירים — עם מיפוי עמודות ידני, חיתוך חכם ובדיקת רצף יתרה
+- **זיהוי דייר אוטומטי** — מערכת מתקדמת לזיהוי שם דייר בתיאור תנועה (compound prefixes, וריאנטים שונים של אותו שם)
 - **FIFO Collection** — חישוב חוב אוטומטי לפי First-In-First-Out על תקופה
 - **התאמת אשראי** (Reconciliation) — חיבור הפקדות אגרגטור לחיובים בודדים + partial matching
 - **דמי ועד היסטוריים** — pricing periods לכל סוג דירה ולכל ספק
 
 ### 👥 דיירים
-- 70 דירות עם פרטים מלאים (בעלים, שוכר, פרטי קשר, חניה, מחסן)
+- ניהול דירות עם פרטים מלאים (בעלים, שוכר, פרטי קשר, חניה, מחסן)
 - כרטיס דירה מפורט עם 7 KPIs + 2 לשוניות (חודשית / כרטסת) + 7 עמודות פירוט
 - שליחת הודעות חוב ב-WhatsApp עם תבנית מותאמת (7 placeholders)
 - סימוני חודש (פטור / סגור / מוקפא)
@@ -88,14 +181,15 @@ KPIs חודשיים, גרפים של הכנסות/הוצאות, באנרים ח�
 
 ### 🏪 ספקים
 - ניהול ספקי הבניין עם 5 תדירויות חיוב (חודשי / דו-חודשי / רבעוני / חצי-שנתי / שנתי)
-- תקופות מחיר היסטוריות (pricing periods JSONB)
+- תקופות מחיר היסטוריות (pricing periods)
 - זיהוי אוטומטי של תנועות בנק לספק לפי keywords
 - חוב מחושב + תחזית שנתית
+- שדה כפול: מחיר חודשי + שנתי עם סנכרון אוטומטי
 
 ### 🗳 הצבעות דיגיטליות
 - יצירת הצבעה (נושא + תיאור + אפשרויות + מועד סגירה)
 - **שיתוף בקליק** לקבוצת WhatsApp עם הודעה מוכנה
-- עמוד הצבעה ציבורי (`/vote.html`) — דיירים מצביעים בלי login
+- עמוד הצבעה ציבורי לדיירים — בלי login
 - מניעת ballot stuffing (UNIQUE על מספר דירה)
 - **תוצאות עם תמונת גרף עוגה** לשיתוף — קליק → שמירה ב-clipboard → הדבק ב-WhatsApp
 
@@ -111,13 +205,15 @@ KPIs חודשיים, גרפים של הכנסות/הוצאות, באנרים ח�
 - **דוח תקופתי** — בחירת טווח תאריכים + 6 סעיפים לבחירה
 - **דוח ספקים ותשלומים** — פילוח לפי ספק + גרף doughnut
 - **דוח דיירים** — בחירת עמודות + ייצוא Excel/CSV
-- **כל דוח ניתן לייצוא** ב-3 פורמטים: 🖨️ הדפסה · 📄 PDF · 📊 Excel
+- **כל דוח ניתן לייצוא** ב-3 פורמטים: 🖨 הדפסה · 📄 PDF · 📊 Excel
 - date pickers מותאמים עם פורמט DD/MM/YYYY (flatpickr)
 
 ### 🔔 תזכורות הוועד
 - תזכורות משותפות לכל חברי הוועד (לדוגמא: "מעליות לשבת", "ניקיון לפסח")
 - **שעון מעורר חוזר** — יומי / שבועי / חודשי
 - Browser notifications כשמגיע מועד
+
+</div>
 
 ---
 
@@ -135,12 +231,16 @@ KPIs חודשיים, גרפים של הכנסות/הוצאות, באנרים ח�
 | **PDF** | [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) |
 | **Date Pickers** | [flatpickr](https://flatpickr.js.org/) (DD/MM/YYYY) |
 
+<div dir="rtl">
+
 ### 🎯 עקרונות תכנון
 - **No build step** — קוד JS רץ ישירות בדפדפן (ES modules native)
 - **RLS-first security** — כל הרשאה מנוהלת ב-Postgres (לא בקוד)
 - **Hebrew + RTL throughout** — תמיכה מלאה בכל הממשק
 - **Mobile-friendly** — responsive design (PWA בתכנון)
 - **Single source of truth** — כל נתון יושב במקום אחד ב-Supabase
+
+</div>
 
 ---
 
@@ -174,34 +274,46 @@ KPIs חודשיים, גרפים של הכנסות/הוצאות, באנרים ח�
 
 ---
 
-## 📊 סטטיסטיקה (לחודש מאי 2026)
+<div dir="rtl">
+
+## 📊 סטטיסטיקה
 
 | מטריקה | ערך |
 |---|---|
-| **בניינים פעילים** | 1 (הרב משורר ישעיהו 6, פתח תקווה) |
-| **דירות בניהול** | 70 |
-| **ספקים פעילים** | 10 |
-| **תנועות בנק שיובאו** | 80+ |
-| **חיובי אשראי** | 17 |
-| **שורות SQL בDB** | ~50 policies + 24 migrations |
+| **בניינים פעילים** | 4 |
 | **קבצי JS** | 28 modules |
+| **טבלאות DB** | 20+ |
+| **RLS policies** | ~50 |
+| **SQL migrations** | 24 |
 | **שפת ממשק** | עברית (100%) |
+
+</div>
 
 ---
 
 ## 📞 יצירת קשר
 
-**מפתח**: עמית רובין
-**אימייל**: [amitrubin60@gmail.com](mailto:amitrubin60@gmail.com)
-**Live App**: [app.veribayit.com](https://app.veribayit.com) (בקרוב)
+<div dir="rtl">
+
+**מפתח:** עמית רובין
+
+**אימייל:** [amitrubin60@gmail.com](mailto:amitrubin60@gmail.com)
+
+**Live App:** [app.veribayit.com](https://app.veribayit.com) (בקרוב)
+
+</div>
 
 ---
 
 <div align="center">
 
+<div dir="rtl">
+
 **מעוניין/ת ביישום מערכת דומה לבניין שלכם?**
 
-[צור קשר](mailto:amitrubin60@gmail.com) · [לאתר החי](https://app.veribayit.com)
+</div>
+
+[📧 צור קשר](mailto:amitrubin60@gmail.com) · [🌐 לאתר החי](https://app.veribayit.com)
 
 ---
 
