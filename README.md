@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="logoHOME3.png" alt="VeriBayit Logo" width="220" style="vertical-align:middle"> &nbsp; <img src="logo_new.jpg" alt="VeriBayit Branding" width="400" style="vertical-align:middle">
+<img src="bank.jpg" alt="VeriBayit — מתחבר לדף הבנק ומזהה אוטומטית מי שילם, כמה ולמי" width="900">
+
+<br><br>
+
+<img src="logoHOME3.png" alt="VeriBayit Logo" width="180" style="vertical-align:middle"> &nbsp; <img src="logo_new.jpg" alt="VeriBayit Branding" width="340" style="vertical-align:middle">
 
 # 🏢 VeriBayit
 
 ### מערכת SaaS לניהול ועד בית — בעברית מלאה, RTL
 
-**[🌐 Live App](https://app.veribayit.com)** · **[📧 Contact](mailto:veribayit@gmail.com)**
+*The only building-committee SaaS that connects to your bank statement and auto-detects who paid, how much, and for what — no clearing fees, the money stays in the committee's account.*
+
+**[🌐 אתר (Landing)](https://www.veribayit.com)** · **[🔐 אפליקציה](https://app.veribayit.com)** · **[📧 Contact](mailto:veribayit@gmail.com)**
 
 </div>
 
@@ -36,7 +42,7 @@
 
 ### 🔐 מסך כניסה והרשמה
 
-מסך כניסה ייעודי עם 2 אופציות: כניסה מהירה עם Google או email+password. כפתור "הרשמה" יוצר אוטומטית בניין חדש למשתמש החדש (multi-tenant). תמיכה ב-show/hide סיסמה.
+מסך כניסה ייעודי עם 2 אופציות: כניסה מהירה עם Google או email+password. ההצטרפות לבניין היא דרך **קישור הזמנה אישי** שהאדמין שולח (מודל "אדמין יוצר", multi-tenant) — כל משתמש מקושר אוטומטית לבניין ולתפקיד הנכון. תמיכה ב-show/hide סיסמה.
 
 </div>
 
@@ -225,6 +231,19 @@
 - **שעון מעורר חוזר** — יומי / שבועי / חודשי
 - Browser notifications כשמגיע מועד
 
+### 🌐 דף נחיתה ולכידת לידים
+- אתר שיווקי רספונסיבי (veribayit.com) — Hero, השוואה, FAQ, מחיר ועמודים משפטיים
+- **טופס "צור קשר"** ששולח ליד ל-3 ערוצים בו-זמנית: שמירה ב-DB + **וואטסאפ** + **מייל**
+- נפילה חכמה לוואטסאפ אם השרת נכשל — כך שאף ליד לא אובד
+
+### 👑 פאנל ניהול (Super-Admin · שכבת SaaS)
+- **ניהול לקוחות ומנויים** — רשימת כל הבניינים, סטטוס, תוקף, KPI ו-MRR צפוי
+- **כרטיס בניין** (drill-in) — פרטי מנוי, היסטוריית תשלומים, רשימת משתמשים ופעולות
+- **אונבורדינג בקישור הזמנה** — האדמין יוצר בניין + מנוי + קישור הזמנה לגזבר בלחיצה
+- **אישור תשלום ידני** + תמחור אוטומטי (בסיס + ₪/חבר ועד) + סימון הוראת קבע
+- **תזכורות חידוש אוטומטיות** — וואטסאפ + מייל לגזבר לפני פקיעת המנוי (Vercel Cron)
+- ניהול לידים, איפוס משתמש, ומחיקת בניין — הכל מאובטח ב-`is_super_admin()` בצד ה-DB
+
 </div>
 
 ---
@@ -242,6 +261,9 @@
 | **Excel** | [SheetJS](https://sheetjs.com/) (XLSX parsing + export) |
 | **PDF** | [html2pdf.js](https://github.com/eKoopmans/html2pdf.js) |
 | **Date Pickers** | [flatpickr](https://flatpickr.js.org/) (DD/MM/YYYY) |
+| **Serverless** | Vercel Functions + Cron (לכידת לידים + תזכורות אוטומטיות) |
+| **WhatsApp** | [Whapi.Cloud](https://whapi.cloud) (התראות + תזכורות) |
+| **Email** | [Resend](https://resend.com) (SMTP מותאם + מיילים) |
 
 <div dir="rtl">
 
@@ -296,7 +318,8 @@
 | **קבצי JS** | 28 modules |
 | **טבלאות DB** | 20+ |
 | **RLS policies** | ~50 |
-| **SQL migrations** | 24 |
+| **SQL migrations** | 34+ |
+| **פונקציות שרת (Serverless)** | לכידת לידים + תזכורות (Cron) |
 | **שפת ממשק** | עברית (100%) |
 
 </div>
@@ -311,7 +334,7 @@
 
 **אימייל:** [veribayit@gmail.com](mailto:veribayit@gmail.com)
 
-**אתר חי:** [app.veribayit.com](https://app.veribayit.com) (בקרוב)
+**אתר:** [veribayit.com](https://www.veribayit.com) · **אפליקציה:** [app.veribayit.com](https://app.veribayit.com)
 
 </div>
 
@@ -325,7 +348,7 @@
 
 </div>
 
-[📧 צור קשר](mailto:veribayit@gmail.com) · [🌐 לאתר החי](https://app.veribayit.com)
+[🌐 לאתר](https://www.veribayit.com) · [📧 צור קשר](mailto:veribayit@gmail.com)
 
 ---
 
