@@ -2,10 +2,6 @@
 
 <img src="bank.jpg" alt="VeriBayit — מתחבר לדף הבנק ומזהה אוטומטית מי שילם, כמה ולמי" width="900">
 
-<br><br>
-
-<img src="logoHOME3.png" alt="VeriBayit Logo" width="180" style="vertical-align:middle"> &nbsp; <img src="logo_new.jpg" alt="VeriBayit Branding" width="340" style="vertical-align:middle">
-
 # 🏢 VeriBayit
 
 ### מערכת SaaS לניהול ועד בית — בעברית מלאה, RTL
@@ -176,6 +172,18 @@
 </div>
 
 <img src="screenshots/AG3.png" alt="Settings — WhatsApp Template" width="900">
+
+---
+
+<div dir="rtl">
+
+### 👑 פאנל ניהול (Super-Admin)
+
+מרכז השליטה לניהול הלקוחות: רשימת כל הבניינים עם סטטוס מנוי, תוקף ו-MRR צפוי · כרטיס בניין מלא עם היסטוריית תשלומים ומשתמשים · יצירת בניין + קישור הזמנה לגזבר · אישור תשלום, תמחור אוטומטי לפי חברי ועד, ותזכורות חידוש. גישה רק לסופר-אדמין.
+
+</div>
+
+<img src="ADMIN.png" alt="Super-Admin Panel" width="900">
 
 ---
 
